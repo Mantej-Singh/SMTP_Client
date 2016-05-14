@@ -1,0 +1,9 @@
+E:\NJIT College\SEM 1\IHLP\Mantej Singh\Bonus SMTP\Email Client\SMTP_Client\SMTP_Client\bin\Debug\SMTP_Client.exe.config
+E:\NJIT College\SEM 1\IHLP\Mantej Singh\Bonus SMTP\Email Client\SMTP_Client\SMTP_Client\bin\Debug\SMTP_Client.exe
+E:\NJIT College\SEM 1\IHLP\Mantej Singh\Bonus SMTP\Email Client\SMTP_Client\SMTP_Client\bin\Debug\SMTP_Client.pdb
+E:\NJIT College\SEM 1\IHLP\Mantej Singh\Bonus SMTP\Email Client\SMTP_Client\SMTP_Client\obj\Debug\SMTP_Client.csprojResolveAssemblyReference.cache
+E:\NJIT College\SEM 1\IHLP\Mantej Singh\Bonus SMTP\Email Client\SMTP_Client\SMTP_Client\obj\Debug\SMTP_Client.Form1.resources
+E:\NJIT College\SEM 1\IHLP\Mantej Singh\Bonus SMTP\Email Client\SMTP_Client\SMTP_Client\obj\Debug\SMTP_Client.Properties.Resources.resources
+E:\NJIT College\SEM 1\IHLP\Mantej Singh\Bonus SMTP\Email Client\SMTP_Client\SMTP_Client\obj\Debug\SMTP_Client.csproj.GenerateResource.Cache
+E:\NJIT College\SEM 1\IHLP\Mantej Singh\Bonus SMTP\Email Client\SMTP_Client\SMTP_Client\obj\Debug\SMTP_Client.exe
+E:\NJIT College\SEM 1\IHLP\Mantej Singh\Bonus SMTP\Email Client\SMTP_Client\SMTP_Client\obj\Debug\SMTP_Client.pdb
